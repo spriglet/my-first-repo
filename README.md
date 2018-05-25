@@ -1,19 +1,19 @@
-# This is a large heading
+# Micah Bell
 
-## This is a smaller heading
+### Geography
+I live in Japan, or will pretty soon. I love it there!
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Reading
 
-- This is
-- an unordered
-- list
+- *Neuromancer* by William Gibson.
+- *The Hobbit* by J.R. Tolkein
 
-1. This is
-2. an ordered
-3. list
+
+### Food
+
+1. Sushi
+2. More Sushi
+3. Miso Soup
 
 Here is `some code` in the middle of a sentence.
 
